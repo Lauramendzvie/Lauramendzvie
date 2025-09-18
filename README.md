@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA1FF&size=40&center=true&vCenter=true&width=1000&lines=Hi+There!+Welcome+to+my+GitHub+profile;My+name+is+Laura!)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" alt="Totoro GIF" width="200"/>
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" alt="Totoro GIF" width="400"/>
 </p>
 
 ## 💗 Hello!! I’m Laura 💗
