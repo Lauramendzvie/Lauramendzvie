@@ -13,6 +13,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lauramendzvie&show_icons=true&theme=radical" alt="Laura's GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauramendzvie&layout=compact&langs_count=7&theme=radical" alt="Top Languages" width="450"/>
+</p>
+---
+
 ### 👩‍💻 Development / Programming  
 
 <p align="center">
@@ -27,11 +33,6 @@
   <a href="https://www.sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lauramendzvie&show_icons=true&theme=radical" alt="Laura's GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauramendzvie&layout=compact&langs_count=7&theme=radical" alt="Top Languages" width="450"/>
-</p>
----
 
 ### 🎨 Design & Creative  
 
