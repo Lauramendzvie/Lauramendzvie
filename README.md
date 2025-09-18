@@ -21,7 +21,6 @@
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/></a>
   <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/></a>
   <a href="https://www.sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="60" height="60"/></a>
 </p>
 
 ---
@@ -31,18 +30,14 @@
 <p align="center">
   <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60"/></a>
   <a href="https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60" height="60"/></a>
-  <a href="https://spline.design/"><img src="https://spline.design/favicon.ico" width="60" height="60"/></a>
   <a href="https://krita.org/"><img src="https://krita.org/wp-content/uploads/2022/06/Krita_Logo.svg" width="60" height="60"/></a>
-  <a href="https://www.wacom.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Wacom_Logo.svg" width="60" height="60"/></a>
   <a href="https://www.blender.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="60" height="60"/></a>
 </p>
 
 ---
 
-### 📫 Connect with me  
+### 🔗 LinkedIn  
 
 <p align="center">
-  <a href="https://instagram.com/Lauramendzs"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="40" height="40"/></a>
-  <a href="mailto:lauravieira060608@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon.svg" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/laura-mendes-vieira-da-silva-539b51219/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/laura-mendes-vieira-da-silva-539b51219/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" width="50" height="50"/></a>
 </p>
