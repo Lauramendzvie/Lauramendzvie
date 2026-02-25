@@ -12,12 +12,18 @@
 - 💚 Open to advice (even the rude ones 😅)  
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lauramendzvie&show_icons=true&theme=radical" alt="Laura's GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauramendzvie&layout=compact&langs_count=7&theme=radical" alt="Top Languages" width="450"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Lauramendzvie&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
+    alt="Laura's GitHub Stats" 
+    width="450"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauramendzvie&layout=compact&langs_count=7&theme=radical" 
+    alt="Top Languages" 
+    width="450"
+  />
 </p>
----
 
 ### 👩‍💻 Development / Programming  
 
