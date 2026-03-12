@@ -13,14 +13,6 @@
 
 ---
 
-<<div align="center">
-  <a href="https://beacons.ai/Viniciusalmei">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lauramendzvie&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauramendzvie&layout=compact&langs_count=16&theme=vue"/>
-  </a>
-</div>
----
-
 ### 👩‍💻 Development / Programming  
 
 <p align="center">
@@ -43,4 +35,17 @@
   <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60"/></a>
   <a href="https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60" height="60"/></a>
   <a href="https://www.blender.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="60" height="60"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lauramendzvie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauramendzvie&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lauramendzvie&theme=tokyonight&hide_border=true"/>
 </p>
