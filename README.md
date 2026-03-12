@@ -13,11 +13,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=Lauramendzvie&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Laura's GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api/top-langs/?username=Lauramendzvie&layout=compact&langs_count=7&theme=radical" alt="Top Languages" width="450"/>
-</p>
-
+<<div align="center">
+  <a href="https://beacons.ai/Viniciusalmei">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lauramendzvie&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauramendzvie&layout=compact&langs_count=16&theme=vue"/>
+  </a>
+</div>
 ---
 
 ### 👩‍💻 Development / Programming  
