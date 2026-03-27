@@ -5,13 +5,12 @@
 </p>
 
 ## 💗 Hellooo!! its nice having you here!!! :) 💗
-- 🔭 Currently working at BOSCH 🇧🇷  
-- 🧡 Advanced English level  
-- 🎓 Studying System Development at SENAI  
-- 💛 Aspiring System Developer  
-- 💚 Open to advice (even the rude ones 😅)  
 
----
+I am currently working at BOSCH 🇧🇷 as a Young Apprentice in the Digital Talent Academy (DTA) area. Along with that i also started an internship within Global Services (GS) , where I am acting as a Product Owner (PO) and supporting project organization, communication, and requirements discussions with the team. I am part of the DS 18 Cohort and I am studying System Development at SENAI, balancing both technical learning and practical experience in a professional environment (always with a little bit of fun of course lol)
+
+I am fluent in English, which has helped me collaborate in diverse contexts. I have also had the opportunity to travel to the United States, Portugal, Spain, and France, those were experiences that contributed to my communication skills and broadened my perspective both personally and professionally.
+
+Alongside my interest in technology, I have a strong connection with creative areas. I enjoy 3D art and drawing in general, and I often explore tools such as Blender and other design platforms. For me, creativity and technology naturally complement each other, and I like bringing this balance into my projects whenever possible!! i love creativity and the courage to create something no one could wonder looollll! ❤️😁
 
 ### 👩‍💻 Development / Programming  
 
